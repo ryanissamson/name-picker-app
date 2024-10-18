@@ -15,7 +15,7 @@ This is a fun prize selector app built with Vue.js. It displays a list of partic
    git clone <your-repository-url>
    cd <your-repository-directory>
 2. **Install dependencies**:
-   ```npm install
+   ``` npm install
 3. **Run the development server**:
 4. **Open the app in your browser at http://localhost:5173**.
 
